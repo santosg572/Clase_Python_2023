@@ -1,0 +1,21 @@
+\begin{enumerate}
+\item Como entrar a una terminal de usuario en Windows, MAC o Linux
+
+\item listar el contenido del HOME
+
+\item ¿Cuáles son los tres componentes principales de una computadora?
+
+\item Enumere tres lenguajes de programación y compare sus diferencias. ¿Por qué hay tantos lenguajes de programación?
+
+\item ¿Cómo se pueden iniciar las interfaces de usuario de texto en Windows, Linux y Mac OS?
+
+\item Realice lo siguiente en una interfaz de usuario de texto
+
+a) Mostrar la carpeta de trabajo actual.
+b) Ingrese a la carpeta "HOME".
+c) Ingrese a la carpeta "Desktop"
+d) Cree una nueva carpeta con el nombre Nuevo en la carpeta Escritorio y verifique que aparezca en el escritorio gráfico.
+
+\item Inicie el programa python y luego ciérrelo.
+\end{enumerate}
+
